@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@email-sender-pro.com or create an issue in this repository.
+For support, email support@teamerror.dev or create an issue in this repository.
 
 ## Roadmap
 
