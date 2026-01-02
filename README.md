@@ -47,7 +47,7 @@ A comprehensive email campaign management system built with Django REST Framewor
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/email_sender_pro.git
+   git clone https://github.com/mhasan05/email_sender_pro.git
    cd email_sender_pro
    ```
 
