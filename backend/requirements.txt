@@ -1,0 +1,15 @@
+Django>=4.2,<5.0
+djangorestframework
+djangorestframework-simplejwt
+celery
+redis
+psycopg2-binary
+pandas
+openpyxl
+django-cors-headers
+gunicorn
+python-dotenv
+aiosmtpd
+dnspython
+dj-database-url
+django-celery-beat
